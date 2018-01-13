@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Daniel",
+  "license": "ISC"
+}
